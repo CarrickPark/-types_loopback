@@ -1,0 +1,13 @@
+{
+  "name": "@types/loopback",
+  "dependencies": {
+    "@types/express-serve-static-core": "*"
+  },
+  "description": "TypeScript definitions for Loopback",
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "typeScriptVersion": "2.0"
+}
