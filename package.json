@@ -1,4 +1,5 @@
 {
+  "version": "0.0.1",
   "name": "@types/loopback",
   "dependencies": {
     "@types/express-serve-static-core": "*"
