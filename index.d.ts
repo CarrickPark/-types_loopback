@@ -24,7 +24,7 @@ declare global {
     }
 
     export interface Model {
-      createOptionsFromRemotingContext(): void;
+      createOptionsFromRemotingContext(ctx: any): any;
     }
   }
 }
