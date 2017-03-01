@@ -22,5 +22,9 @@ declare global {
       start():void;
       emit(message: string):void;
     }
+
+    export interface Model {
+      createOptionsFromRemotingContext(): void;
+    }
   }
 }
